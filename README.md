@@ -1,4 +1,4 @@
-# sudokusolver
+# Sudoku Solver
 
 This sudokkusolver could apply on easy, medium, hard level.
 
