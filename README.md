@@ -15,4 +15,5 @@ This sudokkusolver could apply on easy, medium, hard level.
        Function infer_with_guessing(self) that calls infer_improved(self) as a subroutine, picks an arbitrary value for a cell with multiple possibilities if one remains, and repeats. You should implement a backtracking search which reverts erroneous decisions if they result in unsolvable puzzles. For efficiency, the improved inference algorithm should be called once after each guess is made. This method should be able to solve all of the hard-difficulty puzzles.
        
        
-  ~~HAVE FUN~~
+       
+ ** HAVE FUN **
